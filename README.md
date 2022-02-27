@@ -20,7 +20,9 @@ High-speed and low-power multipliers are required for any signal processing comp
 
 | 2x2 Vedic Multiplier                                         | 4x4 Vedic Multiplier                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| ![2-bit Vedic Multiplier - Circuit Design](./images/2-bit%20Vedic%20Multiplier%20-%20Circuit%20Design.png) | ![](./images/4-bit%20Vedic%20Multiplier%20-%20Circuit%20Design.png) |
+|![2-bit Vedic Multiplier - Circuit Design](https://user-images.githubusercontent.com/100456549/155891513-ecba625d-ea21-4812-bdfa-2a9ce8e5d95b.png) | ![4-bit Vedic Multiplier - Circuit Design](https://user-images.githubusercontent.com/100456549/155891526-1ccc6d4f-56ec-4188-bb16-0f21c37d15a8.png) |
+
+
 
 
 
