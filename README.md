@@ -5,17 +5,17 @@ A multiplier is one of the most frequently used digital circuits in ALU, digital
 ## Table of Contents
 
 1. [Introduction](#Introduction)
-   - Circuit Diagram
-   - Reference Waveforms
-2. Tools Used
-3. Procedure
-   - Identifying cells required
-   - Implementation
-4. Results
-5. Netlist
-6. Acknowledgements
-7. References
-8. Author
+   - [Circuit Diagram](#Circuit-Design)
+   - [Reference Waveforms](#Reference-Waveforms)
+2. [Tools Used](#Tools-Used)
+3. [Procedure](#Procedure)
+   - [Identifying cells required](#Identifying-cells-required)
+   - [Implementation](#Implementation)
+4. [Results](#Results)
+5. [Netlist](#Netlist)
+6. [Acknowledgements](#Acknowledgements)
+7. [References](#References)
+8. [Author](#Author)
 
 
 
