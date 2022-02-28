@@ -217,7 +217,7 @@ The obtained waveform is quite similar to expected (simulation) waveforms.
 
 | Circuit                  | Schematic                                                    | Testbench                                                    |
 | ------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| Inverter                 | [VEDIC_MULIPLIER_INVERTER.sp](netlists\VEDIC_MULIPLIER_INVERTER.sp) | [VEDIC_MULIPLIER_TB_INVERTER.sp](netlists\VEDIC_MULIPLIER_TB_INVERTER.sp) |
+| Inverter                 | [VEDIC_MULIPLIER_INVERTER.sp](netlists/VEDIC_MULIPLIER_INVERTER.sp) | [VEDIC_MULIPLIER_TB_INVERTER.sp](netlists\VEDIC_MULIPLIER_TB_INVERTER.sp) |
 | NAND Gate                | [VEDIC_MULIPLIER_NAND2.sp](netlists\VEDIC_MULIPLIER_NAND2.sp) | [VEDIC_MULIPLIER_TB_NAND.sp](netlists\VEDIC_MULIPLIER_TB_NAND.sp) |
 | Half Adder               | [VEDIC_MULIPLIER_HALF_ADDER.sp](netlists\VEDIC_MULIPLIER_HALF_ADDER.sp) | [VEDIC_MULIPLIER_TB_HALF_ADDER.sp](netlists\VEDIC_MULIPLIER_TB_HALF_ADDER.sp) |
 | Full Adder               | [VEDIC_MULIPLIER_FULL_ADDER.sp](netlists\VEDIC_MULIPLIER_FULL_ADDER.sp) | [VEDIC_MULIPLIER_TB_FULL_ADDER.sp](netlists\VEDIC_MULIPLIER_TB_FULL_ADDER.sp) |
