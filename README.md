@@ -217,13 +217,13 @@ The obtained waveform is quite similar to expected (simulation) waveforms.
 
 | Circuit                  | Schematic                                                    | Testbench                                                    |
 | ------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| Inverter                 | [VEDIC_MULIPLIER_INVERTER.sp](netlists/VEDIC_MULIPLIER_INVERTER.sp) | [VEDIC_MULIPLIER_TB_INVERTER.sp](netlists\VEDIC_MULIPLIER_TB_INVERTER.sp) |
-| NAND Gate                | [VEDIC_MULIPLIER_NAND2.sp](netlists\VEDIC_MULIPLIER_NAND2.sp) | [VEDIC_MULIPLIER_TB_NAND.sp](netlists\VEDIC_MULIPLIER_TB_NAND.sp) |
-| Half Adder               | [VEDIC_MULIPLIER_HALF_ADDER.sp](netlists\VEDIC_MULIPLIER_HALF_ADDER.sp) | [VEDIC_MULIPLIER_TB_HALF_ADDER.sp](netlists\VEDIC_MULIPLIER_TB_HALF_ADDER.sp) |
-| Full Adder               | [VEDIC_MULIPLIER_FULL_ADDER.sp](netlists\VEDIC_MULIPLIER_FULL_ADDER.sp) | [VEDIC_MULIPLIER_TB_FULL_ADDER.sp](netlists\VEDIC_MULIPLIER_TB_FULL_ADDER.sp) |
-| 4-bit Ripple Carry Adder | [VEDIC_MULIPLIER_CARRY_ADDER_4BIT.sp](netlists\VEDIC_MULIPLIER_CARRY_ADDER_4BIT.sp) | [VEDIC_MULIPLIER_TB_CARRY_ADDER.sp](netlists\VEDIC_MULIPLIER_TB_CARRY_ADDER.sp) |
-| 2x2 Multiplier           | [VEDIC_MULIPLIER_MUL_2x2.sp](netlists\VEDIC_MULIPLIER_MUL_2x2.sp) | [VEDIC_MULIPLIER_TB_MUL_2x2.sp](netlists\VEDIC_MULIPLIER_TB_MUL_2x2.sp) |
-| 4x4 Multiplier           | [VEDIC_MULIPLIER_MUL_4x4.sp](netlists\VEDIC_MULIPLIER_MUL_4x4.sp) | [VEDIC_MULIPLIER_TB_MUL4x4.sp](netlists\VEDIC_MULIPLIER_TB_MUL4x4.sp) |
+| Inverter                 | [VEDIC_MULIPLIER_INVERTER.sp](netlists/VEDIC_MULIPLIER_INVERTER.sp) | [VEDIC_MULIPLIER_TB_INVERTER.sp](netlists/VEDIC_MULIPLIER_TB_INVERTER.sp) |
+| NAND Gate                | [VEDIC_MULIPLIER_NAND2.sp](netlists/VEDIC_MULIPLIER_NAND2.sp) | [VEDIC_MULIPLIER_TB_NAND.sp](netlists/VEDIC_MULIPLIER_TB_NAND.sp) |
+| Half Adder               | [VEDIC_MULIPLIER_HALF_ADDER.sp](netlists/VEDIC_MULIPLIER_HALF_ADDER.sp) | [VEDIC_MULIPLIER_TB_HALF_ADDER.sp](netlists/VEDIC_MULIPLIER_TB_HALF_ADDER.sp) |
+| Full Adder               | [VEDIC_MULIPLIER_FULL_ADDER.sp](netlists/VEDIC_MULIPLIER_FULL_ADDER.sp) | [VEDIC_MULIPLIER_TB_FULL_ADDER.sp](netlists/VEDIC_MULIPLIER_TB_FULL_ADDER.sp) |
+| 4-bit Ripple Carry Adder | [VEDIC_MULIPLIER_CARRY_ADDER_4BIT.sp](netlists/VEDIC_MULIPLIER_CARRY_ADDER_4BIT.sp) | [VEDIC_MULIPLIER_TB_CARRY_ADDER.sp](netlists/VEDIC_MULIPLIER_TB_CARRY_ADDER.sp) |
+| 2x2 Multiplier           | [VEDIC_MULIPLIER_MUL_2x2.sp](netlists/VEDIC_MULIPLIER_MUL_2x2.sp) | [VEDIC_MULIPLIER_TB_MUL_2x2.sp](netlists/VEDIC_MULIPLIER_TB_MUL_2x2.sp) |
+| 4x4 Multiplier           | [VEDIC_MULIPLIER_MUL_4x4.sp](netlists/VEDIC_MULIPLIER_MUL_4x4.sp) | [VEDIC_MULIPLIER_TB_MUL4x4.sp](netlists/VEDIC_MULIPLIER_TB_MUL4x4.sp) |
 
 
 
